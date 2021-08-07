@@ -1,0 +1,20 @@
+ID,Problem,Solution
+1a,(-3)^4,81
+1b,-3^4,-81
+1c,3^-4,1/81
+1d,5^23/5^21,25
+1e,(2/3)^-2,9/4
+1f,16^(-3/4),1/8
+2a,Simplify[Expand[Sqrt[200]-Sqrt[32]]],Sqrt[2]*96
+2b,Simplify[Expand[(3a^3b^3)(4a b^2)^2]],48a^5b^7
+2c,Simplify[Expand[Power[(3x^(3/2)y^3)/(x^2y^(-1/2))]]],3y^(7/2)/x^(1/2)
+3a,Simplify[Expand[3(x+6)+4(2x-5)]],11x-2
+3b,Simplify[Expand[(x+3)(4x-5)]],4x^2+7x-15
+3c,Simplify[Expand[(Sqrt[a]+Sqrt[b])(Sqrt[a]-Sqrt[b])]],a-b
+3d,Simplify[Expand[(2x+3)^2]],4x^2+5x+9
+3e,Simplify[Expand[(x+2)^3]],8+12x+12x^2+x^3
+4a,Factor[4x^2-25],(2x+5)(2x-5)
+4b,Factor[2x^2+5x-12],(2x-3)(x+4)
+4c,Factor[x^3-3x^2-4x+12],(x-3)(x+2)(x-2)
+4d,Factor[x^4+27x],x(x+3)(x^2-3x+9)
+4e,Factor[3x^(3/2)-9x^(1/2)+6x^(-1/2)],3x^(-1/2)
